@@ -29,7 +29,14 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.06659942910316374,
+          "pitch": 0.0425461994728078,
+          "title": "日月潭",
+          "text": "<br>"
+        }
+      ]
     }
   ],
   "name": "Project Title",
